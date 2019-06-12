@@ -17,3 +17,6 @@ Data driven leveraging Google Search API for strength of association - e.g. Netf
     and pick the top one as the major SP for comparison
 4.  Verify our hypothesis: the google search result page #s represent the SP association levels
 
+5. To get conclusion
+
+
